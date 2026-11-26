@@ -1,0 +1,31 @@
+@baseUrl = http://localhost:5217
+@apiKey = 1234567890
+
+### Listar tareas
+GET {{baseUrl}}/api/agenttask/tasks
+X-Api-Key: {{apiKey}}
+Accept: application/json
+
+### Crear una tarea
+POST {{baseUrl}}/api/agenttask/create
+X-Api-Key: {{apiKey}}
+Content-Type: application/json
+
+{
+  "agentId": "agent-01",
+  "type": "powershell",
+  "payload": "Get-Date"
+}
+
+### Enviar heartbeat de un agente
+POST {{baseUrl}}/api/agent/heartbeat
+X-Api-Key: {{apiKey}}
+Content-Type: application/json
+
+{
+  "agentId": "agent-01",
+  "machine": "PC-GEORGE"
+}
+
+### Sin API key (debe devolver 401)
+GET {{baseUrl}}/api/agenttask/tasks
