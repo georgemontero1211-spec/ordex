@@ -41,3 +41,4 @@ C:\Users\George\AppData\Local\Temp\claude\ae38cdc3f4ef70ff\5efe696c-c46d-4b48-a3
 C:\Users\George\AppData\Local\Temp\claude\ae38cdc3f4ef70ff\5efe696c-c46d-4b48-a3e9-ea9ceb652aa0\scratchpad\build\OrdexAPI.runtimeconfig.json
 C:\Users\George\AppData\Local\Temp\claude\ae38cdc3f4ef70ff\5efe696c-c46d-4b48-a3e9-ea9ceb652aa0\scratchpad\build\OrdexAPI.dll
 C:\Users\George\AppData\Local\Temp\claude\ae38cdc3f4ef70ff\5efe696c-c46d-4b48-a3e9-ea9ceb652aa0\scratchpad\build\OrdexAPI.pdb
+C:\Users\George\OneDrive\Documentos\GitHub\ordex\API\OrdexAPI\obj\Debug\net10.0\OrdexAPI.sourcelink.json

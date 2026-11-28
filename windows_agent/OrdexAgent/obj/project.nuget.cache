@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lGsvOc7xaEk=",
+  "dgSpecHash": "z0HnUdjsgQ4=",
   "success": true,
   "projectFilePath": "C:\\Users\\George\\OneDrive\\Documentos\\GitHub\\ordex\\windows_agent\\OrdexAgent\\OrdexAgent.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,7 @@
     "C:\\Users\\George\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.12\\microsoft.extensions.filesystemglobbing.10.0.12.nupkg.sha512",
     "C:\\Users\\George\\.nuget\\packages\\microsoft.extensions.hosting\\10.0.12\\microsoft.extensions.hosting.10.0.12.nupkg.sha512",
     "C:\\Users\\George\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\10.0.12\\microsoft.extensions.hosting.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\George\\.nuget\\packages\\microsoft.extensions.http\\10.0.12\\microsoft.extensions.http.10.0.12.nupkg.sha512",
     "C:\\Users\\George\\.nuget\\packages\\microsoft.extensions.logging\\10.0.12\\microsoft.extensions.logging.10.0.12.nupkg.sha512",
     "C:\\Users\\George\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.12\\microsoft.extensions.logging.abstractions.10.0.12.nupkg.sha512",
     "C:\\Users\\George\\.nuget\\packages\\microsoft.extensions.logging.configuration\\10.0.12\\microsoft.extensions.logging.configuration.10.0.12.nupkg.sha512",

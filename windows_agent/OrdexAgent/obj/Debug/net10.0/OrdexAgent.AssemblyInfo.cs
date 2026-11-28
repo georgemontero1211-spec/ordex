@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrdexAgent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55421bec7d00b77eae02647f3cfb70aad3414415")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrdexAgent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrdexAgent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

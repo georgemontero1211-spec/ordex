@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrdexAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55421bec7d00b77eae02647f3cfb70aad3414415")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrdexAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrdexAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
